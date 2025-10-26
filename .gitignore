@@ -1,7 +1,4 @@
 .vscode/
 include/
-*.dll
 *.exe
-*.docx
 lib/
-*.ttf
